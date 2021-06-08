@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CRDialogShown_AdobeReader_21.001.20149_21.001.20149</key>
+	<integer>0</integer>
+	<key>CRDialogShown_AdobeReader_21.001.20155_21.001.20155</key>
+	<integer>0</integer>
+	<key>SuppressCrash_AdobeReader_21.001.20149_21.001.20149</key>
+	<integer>0</integer>
+	<key>SuppressCrash_AdobeReader_21.001.20155_21.001.20155</key>
+	<integer>0</integer>
+	<key>always_never_send</key>
+	<integer>0</integer>
+	<key>closeOnCRCNNotFoundFlag</key>
+	<integer>0</integer>
+	<key>guid_meester</key>
+	<string>6DB565F2-1179-40F6-B22D-D0B7FAF2AFBB</string>
+	<key>lastCrash_AdobeReader_21.001.20140_21.001.20140</key>
+	<string>-1</string>
+	<key>lastCrash_AdobeReader_21.001.20142_21.001.20142</key>
+	<string>-1</string>
+	<key>lastCrash_AdobeReader_21.001.20145_21.001.20145</key>
+	<string>-1</string>
+	<key>lastCrash_AdobeReader_21.001.20149_21.001.20149</key>
+	<string>-1</string>
+	<key>lastCrash_AdobeReader_21.001.20155_21.001.20155</key>
+	<string>-1</string>
+	<key>productPreferences</key>
+	<dict>
+		<key>AdobeReader;21.001.20149;21.001.20149</key>
+		<dict>
+			<key>AdobeReader;21.001.20149;21.001.20149</key>
+			<string>0_1_100</string>
+		</dict>
+		<key>AdobeReader;21.001.20155;21.001.20155</key>
+		<dict>
+			<key>AdobeReader;21.001.20155;21.001.20155</key>
+			<string>0_1_100</string>
+		</dict>
+	</dict>
+	<key>search_solution</key>
+	<integer>0</integer>
+</dict>
+</plist>

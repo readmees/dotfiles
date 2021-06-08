@@ -1,0 +1,16 @@
+{
+    // Clean setup
+    "editor.renderIndentGuides": false,
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "python.pythonPath": "/Users/meester/anaconda3/bin/python",
+    "terminal.integrated.inheritEnv": false,
+    "kite.showWelcomeNotificationOnStartup": false
+}
