@@ -135,3 +135,4 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 alias dot='git --git-dire=$HOME/.local/share/dot --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=/Users/meester/.cfg/ --work-tree=/Users/meester'
